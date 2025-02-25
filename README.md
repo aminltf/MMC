@@ -43,7 +43,7 @@ You can easily modify this script to include additional `.msc` tools:
 This project is open-source. Feel free to modify and share it!
 
 ## Author
-Developed by https://github.com/aminltf. Contributions and suggestions are welcome!
+Developed by https://github.com/aminltf.
 
 ---
 Enjoy effortless access to Windows administrative tools 🚀
