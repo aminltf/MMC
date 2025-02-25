@@ -24,7 +24,7 @@ Here is a list of administrative tools included in this script:
 - **And Many More...**
 
 ## How to Use
-1. **Download** the script file `OpenMscTools.bat`.
+1. **Download** the script file `MMC.bat`.
 2. **Run** the batch file (`.bat`) by double-clicking it.
 3. **Select** the number corresponding to the tool you want to open.
 4. **Press Enter**, and the selected tool will launch instantly.
@@ -35,7 +35,7 @@ Here is a list of administrative tools included in this script:
 
 ## Customization
 You can easily modify this script to include additional `.msc` tools:
-1. Open `OpenMscTools.bat` in a text editor.
+1. Open `MMC.bat` in a text editor.
 2. Add new `.msc` commands under the menu section.
 3. Save the file and run it.
 
@@ -43,7 +43,7 @@ You can easily modify this script to include additional `.msc` tools:
 This project is open-source. Feel free to modify and share it!
 
 ## Author
-Developed by [Your Name]. Contributions and suggestions are welcome!
+Developed by https://github.com/aminltf. Contributions and suggestions are welcome!
 
 ---
 Enjoy effortless access to Windows administrative tools 🚀
